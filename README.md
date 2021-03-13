@@ -12,13 +12,25 @@ Python 有两个大的版本 2，3 但目前 2 已经不再维护所以 Python3 
 
 ### 学习材料
 
-1. 官网: https://www.python.org/
-2. Pypi: https://pypi.org/
-3. Python3 教程： https://www.liaoxuefeng.com/wiki/1016959663602400
+1. [官网](https://www.python.org/)
+2. [Pypi](https://pypi.org/)
+3. [Python3 教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
+4. [Python3 get started](https://www.python.org/about/gettingstarted/)
+5. [Python docs](https://docs.python.org/zh-cn/3/)
 
 ### 阶段学习计划
 
-##### Week 1
+##### Lesson 2
+
+1. 数据类型，变量
+2. string，数组
+3. if  else
+4. 循环
+
+##### Lesson 1
 1. 安装 python 3
 2. 熟悉 PyPi
 3. 安装 Python3 开发环境: vs code 或者 pycharm community
+4. 编写第一个 Hello world 程序
+
+
